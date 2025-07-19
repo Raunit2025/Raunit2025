@@ -1,5 +1,8 @@
 # Hi there, I'm Raunit Raj! 👋
 
+<!-- Optional: Add a typing effect here using a service like https://readme-typing-svg.herokuapp.com/ -->
+<!-- Example: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=B.Tech+CSE+Student;Full-Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" /> -->
+
 ### B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast
 
 ---
@@ -43,23 +46,29 @@ Here are a few projects I'm proud of. Feel free to explore them!
 * **[Inventory_Frontend](https://github.com/Raunit2025/Inventory_Frontend)** (JavaScript)
     * A front-end interface for an inventory management system.
     * **Live Demo:** [Link to your live demo, if available]
+    * <!-- **Add a GIF here to showcase the project!** Example: ![Inventory Frontend Demo](link-to-your-inventory-frontend-gif.gif) -->
 
 * **[MyPortfolio](https://github.com/Raunit2025/MyPortfolio)** (TypeScript)
     * My personal portfolio website built with modern web technologies.
     * **Live Demo:** [Link to your live demo, if available]
+    * <!-- **Add a GIF here to showcase the project!** Example: ![My Portfolio Demo](link-to-your-portfolio-gif.gif) -->
 
 * **[TourismHub](https://github.com/Raunit2025/TourismHub)** (Blade)
     * A web application for exploring tourist destinations.
+    * <!-- **Add a GIF here to showcase the project!** Example: ![TourismHub Demo](link-to-your-tourismhub-gif.gif) -->
 
 * **[E-shop](https://github.com/Raunit2025/E-shop)** (JavaScript)
     * An e-commerce platform showcasing product listings and shopping cart functionality.
     * **Live Demo:** [Link to your live demo, if available]
+    * <!-- **Add a GIF here to showcase the project!** Example: ![E-shop Demo](link-to-your-eshop-gif.gif) -->
 
 * **[SocialMate](https://github.com/Raunit2025/SocialMate)** (Swift)
     * A social networking application for mobile devices.
+    * <!-- **Add a GIF here to showcase the project!** Example: ![SocialMate Demo](link-to-your-socialmate-gif.gif) -->
 
 * **[Weather_Data_Analyzing](https://github.com/Raunit2025/Weather_Data_Analyzing)** (Jupyter Notebook)
     * A data analysis project focusing on weather patterns.
+    * <!-- **Add a GIF here to showcase the project!** Example: ![Weather Data Analysis Demo](link-to-your-weather-gif.gif) -->
 
 ---
 
@@ -73,13 +82,10 @@ Let's connect and build something amazing together!
 
 ---
 
-<!-- Optional: You can add GitHub stats here using external tools like GitHub Readme Stats -->
-<!--
 ### 📊 GitHub Stats
 
 [![Raunit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raunit2025&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raunit2025&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ---
 
