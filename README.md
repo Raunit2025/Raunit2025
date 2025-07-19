@@ -1,6 +1,6 @@
 # Hi there, I'm Raunit Raj! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=B.Tech+CSE+Student;Full-Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFFFFF&center=true&vCenter=true&width=430&lines=B.Tech+CSE+student+at+LPU;Full-Stack+Developer;AI/ML+Enthusiast&loop=false&speed=80" alt="Typing SVG" />
 
 ---
 
