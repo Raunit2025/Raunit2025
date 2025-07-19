@@ -1,7 +1,6 @@
 # Hi there, I'm Raunit Raj! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFFFFF&width=430&lines=B.Tech+CSE+student+at+LPU;Full-Stack+Developer;AI/ML+Enthusiast&loop=true&speed=60" alt="Typing SVG" />
-
 ---
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at Lovely Professional University (LPU), constantly exploring the vast world of technology. My journey in tech is driven by a curiosity to build impactful solutions and a desire to continuously learn and grow.
