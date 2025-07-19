@@ -73,9 +73,9 @@ Here are a few projects I'm proud of. Feel free to explore them!
 
 Let's connect and build something amazing together!
 
-* **Portfolio:** [Your Portfolio Link Here]
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **LeetCode:** [Your LeetCode Profile Link Here]
+* **Portfolio:** [https://raunit-portfolio07.netlify.app/]
+* **LinkedIn:** [https://www.linkedin.com/in/raunitraj/]
+* **LeetCode:** [https://leetcode.com/u/raunitraj2336/]
 
 ---
 
