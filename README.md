@@ -4,9 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at Lovely Professional University (LPU), constantly exploring the vast world of technology. My journey in tech is driven by a curiosity to build impactful solutions and a desire to continuously learn and grow.
-
-I thrive on turning ideas into reality, whether it's crafting robust back-end systems, designing intuitive front-end experiences, or diving into the fascinating realm of artificial intelligence and machine learning.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=FFFFFF&center=true&vCenter=true&width=490&lines=Welcome+to+my+GitHub+profile!+I'm+a+passionate+Computer+Science+Engineering+student+at+Lovely+Professional+University+(LPU),+constantly+exploring+the+vast+world+of+technology.;My+journey+in+tech+is+driven+by+a+curiosity+to+build+impactful+solutions+and+a+desire+to+continuously+learn+and+grow.;I+thrive+on+turning+ideas+into+reality,+whether+it's+crafting+robust+back-end+systems,+designing+intuitive+front-end+experiences,+or+diving+into+the+fascinating+realm+of+artificial+intelligence+and+machine+learning.&loop=false&speed=80" alt="About Me Typing SVG" />
 
 ---
 
