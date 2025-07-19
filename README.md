@@ -1,9 +1,6 @@
 # Hi there, I'm Raunit Raj! 👋
 
-<!-- Optional: Add a typing effect here using a service like https://readme-typing-svg.herokuapp.com/ -->
-<!-- Example: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=B.Tech+CSE+Student;Full-Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" /> -->
-
-### B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=B.Tech+CSE+Student;Full-Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
 
 ---
 
