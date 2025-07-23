@@ -13,10 +13,10 @@ I thrive on turning ideas into reality, whether it's crafting robust back-end sy
 
 Here's a glimpse of the technologies and tools I enjoy working with:
 
-* **Front-end:** React.js, HTML, CSS, JavaScript
+* **Front-end:** React.js, HTML, CSS, JavaScript, SwiftUI
 * **Back-end:** Node.js, Laravel (PHP)
-* **Databases:** MySQL
-* **Operating Systems:** Linux
+* **Databases:** MySQL, MongoDB, 
+* **Operating Systems:** Ubuntu, Windows, MacOS
 * **Version Control:** Git, GitHub
 * **Concepts:** Full-Stack Development, RESTful APIs, Object-Oriented Programming
 * **Exploring:** Artificial Intelligence, Machine Learning, Data Analysis
@@ -54,7 +54,7 @@ Here are a few projects I'm proud of. Feel free to explore them!
 
 * **[E-shop](https://github.com/Raunit2025/E-shop)** (JavaScript)
     * An e-commerce platform showcasing product listings and shopping cart functionality.
-    * **Live Demo:** [Link to your live demo, if available]
+    * **Live Demo:** [https://regal-gelato-dc7727.netlify.app/]
 
 
 * **[SocialMate](https://github.com/Raunit2025/SocialMate)** (Swift)
