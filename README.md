@@ -42,29 +42,28 @@ Here are a few projects I'm proud of. Feel free to explore them!
 * **[Inventory_Frontend](https://github.com/Raunit2025/Inventory_Frontend)** (JavaScript)
     * A front-end interface for an inventory management system.
     * **Live Demo:** [Link to your live demo, if available]
-    * <!-- **Add a GIF here to showcase the project!** Example: ![Inventory Frontend Demo](link-to-your-inventory-frontend-gif.gif) -->
 
 * **[MyPortfolio](https://github.com/Raunit2025/MyPortfolio)** (TypeScript)
     * My personal portfolio website built with modern web technologies.
     * **Live Demo:** [Link to your live demo, if available]
-    * <!-- **Add a GIF here to showcase the project!** Example: ![My Portfolio Demo](link-to-your-portfolio-gif.gif) -->
+
 
 * **[TourismHub](https://github.com/Raunit2025/TourismHub)** (Blade)
     * A web application for exploring tourist destinations.
-    * <!-- **Add a GIF here to showcase the project!** Example: ![TourismHub Demo](link-to-your-tourismhub-gif.gif) -->
+
 
 * **[E-shop](https://github.com/Raunit2025/E-shop)** (JavaScript)
     * An e-commerce platform showcasing product listings and shopping cart functionality.
     * **Live Demo:** [Link to your live demo, if available]
-    * <!-- **Add a GIF here to showcase the project!** Example: ![E-shop Demo](link-to-your-eshop-gif.gif) -->
+
 
 * **[SocialMate](https://github.com/Raunit2025/SocialMate)** (Swift)
     * A social networking application for mobile devices.
-    * <!-- **Add a GIF here to showcase the project!** Example: ![SocialMate Demo](link-to-your-socialmate-gif.gif) -->
+
 
 * **[Weather_Data_Analyzing](https://github.com/Raunit2025/Weather_Data_Analyzing)** (Jupyter Notebook)
     * A data analysis project focusing on weather patterns.
-    * <!-- **Add a GIF here to showcase the project!** Example: ![Weather Data Analysis Demo](link-to-your-weather-gif.gif) -->
+
 
 ---
 
