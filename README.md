@@ -41,7 +41,7 @@ Here are a few projects I'm proud of. Feel free to explore them!
 
 * **[Inventory_Frontend](https://github.com/Raunit2025/Inventory_Frontend)** (JavaScript)
     * A front-end interface for an inventory management system.
-    * **Live Demo:** [Link to your live demo, if available]
+    * **Live Demo:** [https://clever-medovik-330bb3.netlify.app/]
 
 * **[MyPortfolio](https://github.com/Raunit2025/MyPortfolio)** (TypeScript)
     * My personal portfolio website built with modern web technologies.
