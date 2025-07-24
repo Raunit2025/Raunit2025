@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineering stud
 
 I thrive on turning ideas into reality, whether it's crafting robust back-end systems, designing intuitive front-end experiences, or diving into the fascinating realm of artificial intelligence and machine learning.
 
----
-
 ### 🚀 My Toolkit & Technologies
 
 Here's a glimpse of the technologies and tools I enjoy working with:
