@@ -27,8 +27,8 @@ I'm always eager to expand my knowledge and take on new challenges. Currently, I
 * Deepening my understanding of advanced React concepts and state management.
 * Exploring machine learning algorithms and their practical applications.
 * Building scalable and efficient full-stack applications.
-* **[Add a specific project you're working on here! For example: "Refining the user experience and adding new features to my `Inventory_Frontend` project."]**
-* **[Add a specific technology/concept you're learning! For example: "Learning about containerization with Docker."]**
+* Refining the user experience and adding new features to my `Inventory_Frontend` project.
+* Learning about containerization with Docker.
 
 ---
 
