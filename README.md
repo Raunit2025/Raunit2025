@@ -1,4 +1,4 @@
-# Hi there, I'm Raunit Raj! 👋
+[# Hi there, I'm Raunit Raj! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFFFFF&width=430&lines=B.Tech+CSE+student+at+LPU;Full-Stack+Developer;AI/ML+Enthusiast&loop=true&speed=60" alt="Typing SVG" />
 
@@ -82,3 +82,4 @@ Let's connect and build something amazing together!
 ---
 
 Thanks for stopping by! Happy coding!
+](https://github.com/Raunit2025/Raunit2025.git)
